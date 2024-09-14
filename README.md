@@ -7,7 +7,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project]([https://github.com/SatK-ds2020/Library_management_System_Project/blob/main/LIBRARY-MANAGEMENT-SYSTEM.png])
+![Library_project](https://github.com/SatK-ds2020/Library_management_System_Project/blob/main/LIBRARY-MANAGEMENT-SYSTEM.png)
 
 ## Objectives
 
