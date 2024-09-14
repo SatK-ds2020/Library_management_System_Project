@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ### 1. Database Setup
 
-![ERD](https://github.com/SatK-ds2020/Library_management_System_Project/blob/main/Library-ERD-modified.png)
+![ERD](https://github.com/SatK-ds2020/Library_management_System_Project/blob/main/Library-ERD-resized.png)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
